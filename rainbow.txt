@@ -1,7 +1,9 @@
 Red
+Orange
 Yellow
-Blue
 Green
+Blue
+Indigo
 Violet
 
 A wild unicorn has appeared!
